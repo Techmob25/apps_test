@@ -1996,7 +1996,7 @@
             "rtno": "168",
             "loc": "PABT",
             "tarifftype": "Interstate"
-          },
+          },,
           {
             "rtno": "888",
             "loc": "PABT",
